@@ -23,6 +23,7 @@ public class PersonController {
         people.add(new Person("Nilanga", "Sri Lanka", "Male"));
         people.add(new Person("Shash", "Sri Lanka", "Female"));
         people.add(new Person("Virajith", "Sri Lanka", "Male"));
+        people.add(new Person("Virajith", "Sri Lanka", "Male"));
 
         return people;
     }
